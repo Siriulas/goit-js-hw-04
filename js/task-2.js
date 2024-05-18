@@ -1,6 +1,6 @@
 function calcAverageCalories(days) {
     let totalCalories = 0;
-    let = serCaloriesPerDay = 0;
+    let  serCaloriesPerDay = 0;
     if (days.length !== 0) {
         
         for (const day of days) {
